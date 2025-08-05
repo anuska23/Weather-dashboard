@@ -16,7 +16,7 @@ A comprehensive React/Next.js TypeScript dashboard for visualizing weather data 
 
 1. **Clone the repository:**
 \`\`\`bash
-git clone https://github.com/yourusername/weather-dashboard.git
+https://github.com/anuska23/Weather-dashboard.git
 cd weather-dashboard
 \`\`\`
 
