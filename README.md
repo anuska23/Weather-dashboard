@@ -4,7 +4,7 @@ A comprehensive React/Next.js TypeScript dashboard for visualizing weather data 
 
 ## 🚀 Live Demo
 
-**Deployed Application:**https://vercel.com/anuskaghosh2912-gmailcoms-projects/weather-dashboard/kBfWmACwdCgtgrxCwPBtErtdjwCr
+**Deployed Application:**https://weather-dashboard-tawny-seven.vercel.app/
 
 ## 📋 Setup and Run Instructions
 
